@@ -2,7 +2,7 @@
 
 An App that allows you to find the cheapest games on the internet!
 
-To see what it is all about, check out the website in the description: acme-games-orpin.vercel.app
+To see what it is all about, check out the website in the description.
 
 The API we used for this project is [CheapShark API](https://apidocs.cheapshark.com/)
 
